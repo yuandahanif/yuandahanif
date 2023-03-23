@@ -1,9 +1,5 @@
 ### hi, Yuanda here 👋
 
-[![Anurag's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=yuandahanif&count_private=true&show_icons=true&hide=issues)](https://github-readme-stats-ruby-one.vercel.app)
-
-[![Anurag's github stats](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=yuandahanif&layout=compact)](https://github-readme-stats-ruby-one.vercel.app)
-
 <!--
 **yuandahanif/yuandahanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
